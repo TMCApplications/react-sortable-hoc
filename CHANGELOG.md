@@ -1,5 +1,8 @@
 Changelog
 ------------
+### 0.6.9
+Fix issue with window scrolling [clauderic#306](https://github.com/clauderic/react-sortable-hoc/pull/306)
+
 ### 0.6.8
 Update react and react-dom peerdependency requirements for React 16+ [#283](https://github.com/clauderic/react-sortable-hoc/pull/283). Thanks [@jnsdls](https://github.com/jnsdls)!
 
